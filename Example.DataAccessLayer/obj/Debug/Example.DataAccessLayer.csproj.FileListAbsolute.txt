@@ -1,0 +1,15 @@
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll.config
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.DataAccessLayer.pdb
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.pdb
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\Example.Entities.dll.config
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.csproj.CopyComplete
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.DataAccessLayer\obj\Debug\Example.DataAccessLayer.pdb

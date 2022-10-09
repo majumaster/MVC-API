@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExampleAPI</name>
+    </assembly>
+    <members>
+        <member name="T:ExampleAPI.UnityConfig">
+            <summary>
+            Specifies the Unity configuration for the main container.
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.UnityConfig.Container">
+            <summary>
+            Configured Unity Container.
+            </summary>
+        </member>
+        <member name="M:ExampleAPI.UnityConfig.RegisterTypes(Unity.IUnityContainer)">
+            <summary>
+            Registers the type mappings with the Unity container.
+            </summary>
+            <param name="container">The unity container to configure.</param>
+            <remarks>
+            There is no need to register concrete types such as controllers or
+            API controllers (unless you want to change the defaults), as Unity
+            allows resolving a concrete type even if it was not previously
+            registered.
+            </remarks>
+        </member>
+        <member name="T:ExampleAPI.UnityWebApiActivator">
+            <summary>
+            Provides the bootstrapping for integrating Unity with WebApi when it is hosted in ASP.NET.
+            </summary>
+        </member>
+        <member name="M:ExampleAPI.UnityWebApiActivator.Start">
+            <summary>
+            Integrates Unity when the application starts.
+            </summary>
+        </member>
+        <member name="M:ExampleAPI.UnityWebApiActivator.Shutdown">
+            <summary>
+            Disposes the Unity container when the application is shut down.
+            </summary>
+        </member>
+        <member name="M:ExampleAPI.Controllers.ProductsController.Get(System.Int32)">
+            <summary>
+            get selected product
+            </summary>
+            <param name="id">Product identifier</param>
+            <returns>Product details</returns>
+        </member>
+        <member name="M:ExampleAPI.Controllers.ProductsController.GetAll">
+            <summary>
+            get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ExampleAPI.Controllers.ProductsController.Post(ExampleAPI.Models.InputModels.Products.ProductInputModel)">
+            <summary>
+            create new product
+            </summary>
+            <param name="model">Product details</param>
+            <returns>status</returns>
+        </member>
+        <member name="M:ExampleAPI.Controllers.ProductsController.Put(System.Int32,ExampleAPI.Models.InputModels.Products.ProductInputModel)">
+            <summary>
+            update existing product
+            </summary>
+            <param name="id">Product identifier</param>
+            <param name="model">Product details</param>
+            <returns>status</returns>
+        </member>
+        <member name="M:ExampleAPI.Controllers.ProductsController.Delete(System.Int32)">
+            <summary>
+            delete existing product
+            </summary>
+            <param name="id">Product identifier</param>
+            <returns>status</returns>
+        </member>
+        <member name="P:ExampleAPI.Models.InputModels.Products.ProductInputModel.Name">
+            <summary>
+            Product name
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.Models.InputModels.Products.ProductInputModel.Price">
+            <summary>
+            Product price
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.Models.InputModels.Products.ProductInputModel.CategoryId">
+            <summary>
+            Category identifier
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.Models.OutputModels.Products.ProductOutputModel.Id">
+            <summary>
+            Product identifier
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.Models.OutputModels.Products.ProductOutputModel.Name">
+            <summary>
+            Product name
+            </summary>
+        </member>
+        <member name="P:ExampleAPI.Models.OutputModels.Products.ProductOutputModel.CategoryName">
+            <summary>
+            Product category name
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll.config
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\Example.Entities.pdb
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.AssemblyReference.cache
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.dll
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.pdb
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.Init.resources
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.csproj.GenerateResource.cache
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.Initi.resources
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.InitialCreate.resources
+C:\Users\Maju\source\repos\ExampleAPI\Example.Entities\obj\Debug\Example.Entities.Migrations.Init1.resources
